@@ -1,1 +1,1 @@
-<?php header("Location: http://paxfulj.trade/login/"); die(); ?>
+<?php header("Location: https://www.mpm.edu/research-collections/anthropology"); die(); ?>
